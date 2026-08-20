@@ -1,0 +1,3 @@
+# optimized from: svc_digitalocean-domains
+
+digitalocean.com
