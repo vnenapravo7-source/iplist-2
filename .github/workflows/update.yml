@@ -46,7 +46,7 @@ jobs:
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/geoblock.lst" "geoblock-domains.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/hodca.lst" "hodca-domains.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/svc_cloudflare.lst" "svc_cloudflare-domains.txt"
-          update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/svc_cloudfront.lst" "-domains.txt"
+          update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/svc_cloudfront.lst" "svc_cloudfront-domains.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/svc_digitalocean.lst" "svc_digitalocean-domains.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/svc_discord.lst" "svc_discord-domains.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/domains/svc_hetzner.lst" "svc_hetzner-domains.txt"
