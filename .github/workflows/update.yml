@@ -68,7 +68,7 @@ jobs:
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/rkn.lst" "rkn-ip.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/rkn_all.lst" "rkn_all-ip.txt"
           update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/akamai.lst" "akamai-ip.txt"
-          update_file "https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/aws.lst" "aws-ip.txt"
+          update_file #"https://raw.githubusercontent.com/xyzmean/ru-bypass-ipsets/refs/heads/main/lists/aws.lst" "aws-ip.txt"
           
 
       - name: Optimize IP files
