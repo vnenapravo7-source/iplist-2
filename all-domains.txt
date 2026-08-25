@@ -325,20 +325,20 @@ windows10spotlight.com
 zbigz.com
 zendesk.com
 
-# optimized from: block-domains, geoblock-domains
+# optimized from: block-domains, geoblock-domains, geoblock-v-rf-domains
 
 forum.netgate.com
 patreon.com
 patreonusercontent.com
 sophos.com
 
-# optimized from: block-domains, hodca-domains
+# optimized from: block-domains, hodca-allin1-domains
 
 fastpic.org
 protonvpn.com
 rutracker.org
 
-# optimized from: block-domains, hodca-domains, svc_hetzner-domains
+# optimized from: block-domains, hodca-allin1-domains, svc_hetzner-domains
 
 hetzner.com
 
@@ -346,7 +346,7 @@ hetzner.com
 
 digitalocean.com
 
-# optimized from: geoblock-domains
+# optimized from: geoblock-domains, geoblock-v-rf-domains
 
 4pda.to
 4pda.ws
@@ -794,7 +794,7 @@ zapier.com
 zedge.net
 zerossl.com
 
-# optimized from: geoblock-domains, hodca-domains
+# optimized from: geoblock-domains, geoblock-v-rf-domains, hodca-allin1-domains
 
 amazon.com
 amazonaws.com
@@ -807,7 +807,7 @@ teamviewer.com
 wbagora.com
 wbgames.com
 
-# optimized from: hodca-domains
+# optimized from: hodca-allin1-domains
 
 3os.org
 acclaimedvideogames.com
@@ -1043,11 +1043,11 @@ yarnpkg.com
 youngliving.com
 zerotier.com
 
-# optimized from: hodca-domains, svc_cloudflare-domains
+# optimized from: hodca-allin1-domains, svc_cloudflare-domains
 
 cloudflare.com
 
-# optimized from: hodca-domains, svc_cloudfront-domains
+# optimized from: hodca-allin1-domains, svc_cloudfront-domains
 
 cloudfront.net
 
